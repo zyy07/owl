@@ -8,9 +8,13 @@
 [![Documentation][docs-image]][docs-url]
 [![Package License][package-license-image]][package-license-url]
 
-
 </div>
 
+MCPBench is an evaluation framework for MCP Server. It supports the evaluation of two types of servers: Web Search and Database Query, and is compatible with both local and remote MCP Servers. The framework primarily evaluates different MCP Servers (such as Brave Search, DuckDuckGo, etc.) in terms of task completion accuracy, latency, and token consumption under the same LLM and Agent configurations. 
+
+Here is the [evaluation report](https://github.com/modelscope/MCPBench/blob/main/mcpbench.pdf) .
+
+The implementation is based on [LangProBe: a Language Programs Benchmark](https://arxiv.org/abs/2502.20315).
 
 <hr>
 
@@ -21,26 +25,17 @@
 [English](https://github.com/camel-ai/owl/tree/main/README_zh.md)
 
 </h4>
+</div>
 
 # 📋 Table of Contents
 
 - [🔥 News](#-news)
-- [🎬 Demo Video](#-demo-video)
-- [✨️ Core Features](#️-core-features)
-- [🛠️ Installation](#️-installation)
+- [🛠️ Installation](#-installation)
 - [🚀 Quick Start](#-quick-start)
-- [🧰 Toolkits and Capabilities](#-toolkits-and-capabilities)
-  - [Model Context Protocol (MCP)](#model-context-protocol-mcp)
-- [🌐 Web Interface](#-web-interface)
-- [🧪 Experiments](#-experiments)
-- [⏱️ Future Plans](#️-future-plans)
-- [📄 License](#-license)
-- [🖊️ Cite](#️-cite)
-- [🤝 Contributing](#-contributing)
-- [🔥 Community](#-community)
-- [❓ FAQ](#-faq)
-- [📚 Exploring CAMEL Dependency](#-exploring-camel-dependency)
-- [⭐ Star History](#-star-history)
+  - [Launch MCP Server](##launch-mcp-server)
+  - [Launch Evaluation](##launch-evaluation)
+- [🧂 Datasets and Experiments](#-datasets-and-experiments)
+- [🚰 Cite](#-cite)
 
 # 🔥 News
 
