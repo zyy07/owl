@@ -1,18 +1,11 @@
 <h1 align="center">
-	🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
+	🦊 MCPBench: A Benchmark for Evaluating MCP Servers
 </h1>
 
 
 <div align="center">
 
 [![Documentation][docs-image]][docs-url]
-[![Discord][discord-image]][discord-url]
-[![X][x-image]][x-url]
-[![Reddit][reddit-image]][reddit-url]
-[![Wechat][wechat-image]][wechat-url]
-[![Wechat][owl-image]][owl-url]
-[![Hugging Face][huggingface-image]][huggingface-url]
-[![Star][star-image]][star-url]
 [![Package License][package-license-image]][package-license-url]
 
 
@@ -24,44 +17,13 @@
 <div align="center">
 <h4 align="center">
 
-[中文阅读](https://github.com/camel-ai/owl/tree/main/README_zh.md) |
-[Community](https://github.com/camel-ai/owl#community) |
-[Installation](#️-installation) |
-[Examples](https://github.com/camel-ai/owl/tree/main/owl) |
-[Paper](https://arxiv.org/abs/2303.17760) |
-[Citation](https://github.com/camel-ai/owl#citation) |
-[Contributing](https://github.com/camel-ai/owl/graphs/contributors) |
-[CAMEL-AI](https://www.camel-ai.org/)
+[中文](https://github.com/camel-ai/owl/tree/main/README_zh.md) |
+[English](https://github.com/camel-ai/owl/tree/main/README_zh.md)
 
 </h4>
 
-<div align="center" style="background-color: #f0f7ff; padding: 10px; border-radius: 5px; margin: 15px 0;">
-  <h3 style="color: #1e88e5; margin: 0;">
-    🏆 OWL achieves <span style="color: #d81b60; font-weight: bold; font-size: 1.2em;">58.18</span> average score on GAIA benchmark and ranks <span style="color: #d81b60; font-weight: bold; font-size: 1.2em;">🏅️ #1</span> among open-source frameworks! 🏆
-  </h3>
-</div>
-
-<div align="center">
-
-🦉 OWL is a cutting-edge framework for multi-agent collaboration that pushes the boundaries of task automation, built on top of the [CAMEL-AI Framework](https://github.com/camel-ai/camel).
-
-<!-- OWL achieves **58.18** average score on [GAIA](https://huggingface.co/spaces/gaia-benchmark/leaderboard) benchmark and ranks 🏅️ #1 among open-source frameworks. -->
-
-Our vision is to revolutionize how AI agents collaborate to solve real-world tasks. By leveraging dynamic agent interactions, OWL enables more natural, efficient, and robust task automation across diverse domains.
-
-</div>
-
-![](./assets/owl_architecture.png)
-
-<br>
-
-
-</div>
-
-<!-- # Key Features -->
 # 📋 Table of Contents
 
-- [📋 Table of Contents](#-table-of-contents)
 - [🔥 News](#-news)
 - [🎬 Demo Video](#-demo-video)
 - [✨️ Core Features](#️-core-features)
