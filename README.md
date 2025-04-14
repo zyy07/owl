@@ -33,8 +33,8 @@ The implementation is based on [LangProBe: a Language Programs Benchmark](https:
   - [LLM Configuration](##llm-configuration)
   - [Launch MCP Server](##launch-mcp-server)
   - [Launch Evaluation](##launch-evaluation)
-- [🧂 Datasets and Experiments](#-datasets-and-experiments)
-- [🚰 Cite](#-cite)
+- [🧂 Datasets and Experiments](#datasets-and-experiments)
+- [🚰 Cite](#cite)
 
 # 🔥 News
 + `Apr. 14, 2025` 🌟 We are proud to announce that MCPBench is now open-sourced.
