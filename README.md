@@ -27,12 +27,12 @@ The implementation is based on [LangProBe: a Language Programs Benchmark](https:
 
 # 📋 Table of Contents
 
-- [🔥 News](#-news)
-- [🛠️ Installation](#-installation)
-- [🚀 Quick Start](#-quick-start)
-  - [LLM Configuration](##llm-configuration)
-  - [Launch MCP Server](##launch-mcp-server)
-  - [Launch Evaluation](##launch-evaluation)
+- [🔥 News](#news)
+- [🛠️ Installation](#installation)
+- [🚀 Quick Start](#quick-start)
+  - [LLM Configuration](#llm-configuration)
+  - [Launch MCP Server](#launch-mcp-server)
+  - [Launch Evaluation](#launch-evaluation)
 - [🧂 Datasets and Experiments](#datasets-and-experiments)
 - [🚰 Cite](#cite)
 
@@ -122,7 +122,7 @@ For the Database Query task, the dataset is located at `MCPBench/langProBe/DB/da
 }
 ```
 
-We have evaluated mainstream MCP Servers on both tasks. For detailed experimental results, please refer to `results.md`
+We have evaluated mainstream MCP Servers on both tasks. For detailed experimental results, please refer to [Documentation]()
 
 # 🚰 Cite
 If you find this work useful, please consider citing our project:
