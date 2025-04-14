@@ -27,7 +27,7 @@ The implementation is based on [LangProBe: a Language Programs Benchmark](https:
 
 # 📋 Table of Contents
 
-- [🔥 News](# news)
+- [🔥 News](#news)
 - [🛠️ Installation](#installation)
 - [🚀 Quick Start](#quick-start)
   - [LLM Configuration](#llm-configuration)
