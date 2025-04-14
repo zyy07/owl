@@ -109,7 +109,7 @@ To evaluate the MCP Server's performance on Database Query tasks:
 sh evaluation_db.sh YOUR_CONFIG_FILE
 ```
 
-# Datasets and Experimental Results
+# 🧂 Datasets and Experiments
 Our framework provides two datasets for evaluation. For the WebSearch task, the dataset is located at `MCPBench/langProBe/WebSearch/data/frames_test.jsonl`, containing 200 QA pairs each from [Frames](https://arxiv.org/abs/2409.12941), news, and technology domains. Our framework for automatically constructing evaluation datasets will be open-sourced later.
 
 For the Database Query task, the dataset is located at `MCPBench/langProBe/DB/data/car_bi.jsonl`. You can add your own dataset in the following format:
@@ -124,34 +124,7 @@ For the Database Query task, the dataset is located at `MCPBench/langProBe/DB/da
 
 We have evaluated mainstream MCP Servers on both tasks. For detailed experimental results, please refer to `results.md`
 
-# Citation
-If you find this work useful, please consider citing our project:
-
-```bibtex
-@misc{mcpbench,
-  title={MCPBench: A Benchmark for Evaluating MCP Servers},
-  author={Zhiling Luo,Xiaorong Shi, Xuanrui Lin, Yang Jin,Bolin Ding},
-  howpublished = {\url{https://github.com/modelscope/MCPBench}},
-  year={2025}
-}
-```
-
-# 🧂 Datasets and Experimental Results
-Our framework provides two datasets for evaluation. For the WebSearch task, the dataset is located at `MCPBench/langProBe/WebSearch/data/frames_test.jsonl`, containing 200 QA pairs each from [Frames](https://arxiv.org/abs/2409.12941), news, and technology domains. Our framework for automatically constructing evaluation datasets will be open-sourced later.
-
-For the Database Query task, the dataset is located at `MCPBench/langProBe/DB/data/car_bi.jsonl`. You can add your own dataset in the following format:
-
-```json
-{
-  "unique_id": "",
-  "Prompt": "",
-  "Answer": ""
-}
-```
-
-We have evaluated mainstream MCP Servers on both tasks. For detailed experimental results, please refer to `results.md`
-
-# 🚰 Citation
+# 🚰 Cite
 If you find this work useful, please consider citing our project:
 
 ```bibtex
