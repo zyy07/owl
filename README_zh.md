@@ -1,4 +1,4 @@
-# <h1 align="center">
+<h1 align="center">
 	🦊 MCPBench: A Benchmark for Evaluating MCP Servers
 </h1>
 
