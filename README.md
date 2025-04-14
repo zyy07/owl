@@ -10,7 +10,7 @@
 
 </div>
 
-MCPBench is an evaluation framework for MCP Server. It supports the evaluation of two types of servers: Web Search and Database Query, and is compatible with both local and remote MCP Servers. The framework primarily evaluates different MCP Servers (such as DuckDuckGo, Brave Search etc.) in terms of task completion accuracy, latency, and token consumption under the same LLM and Agent configurations. 
+MCPBench is an evaluation framework for MCP Server. It supports the evaluation of two types of servers: Web Search and Database Query, and is compatible with both local and remote MCP Servers. The framework primarily evaluates different MCP Servers (such as Brave Search etc.) in terms of task completion accuracy, latency, and token consumption under the same LLM and Agent configurations. 
 
 The implementation is based on [LangProBe: a Language Programs Benchmark](https://arxiv.org/abs/2502.20315).
 
@@ -37,8 +37,7 @@ The implementation is based on [LangProBe: a Language Programs Benchmark](https:
 - [🚰 Cite](#-cite)
 
 # 🔥 News
-+Apr. 14, 2025` We are proud to announce that MCPBench is now open-sourced.
-
++ `Apr. 14, 2025` 🌟 We are proud to announce that MCPBench is now open-sourced.
 
 # 🛠️ Installation
 The framework requires Python version >= 3.11, nodejs and jq.
